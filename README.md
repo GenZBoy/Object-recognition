@@ -1,2 +1,2 @@
 # Object-recognition
-Object recognition using caffe model
+Object recognition in real time using caffe model
